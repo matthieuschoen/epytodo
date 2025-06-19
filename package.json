@@ -1,0 +1,28 @@
+{
+  "name": "b-web-200-nan-2-1-epytodo-matthieu.schoen",
+  "version": "1.0.0",
+  "description": "Task management application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechPGEPromo2029/B-WEB-200-NAN-2-1-epytodo-matthieu.schoen.git"
+  },
+  "author": "TeamEpytodo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechPGEPromo2029/B-WEB-200-NAN-2-1-epytodo-matthieu.schoen/issues"
+  },
+  "homepage": "https://github.com/EpitechPGEPromo2029/B-WEB-200-NAN-2-1-epytodo-matthieu.schoen#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.14.1"
+  }
+}
