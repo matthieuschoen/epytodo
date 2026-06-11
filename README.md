@@ -23,11 +23,3 @@ Epytodo is a simple task management application designed to help users organize 
     ```bash
     pip install -r requirements.txt
     ```
-
-## Usage
-
-1. Run the application:
-    ```bash
-    python app.py
-    ```
-2. Open your browser and navigate to `http://localhost:5000`.
